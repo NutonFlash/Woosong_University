@@ -1,0 +1,10 @@
+Epoch: 1  Discriminator Loss: 0.5799175500869751	Generator Loss: 1.4027504920959473
+Epoch: 2  Discriminator Loss: 0.4335746765136719	Generator Loss: 1.964199423789978
+Epoch: 3  Discriminator Loss: 0.5243364572525024	Generator Loss: 1.2473268508911133
+Epoch: 4  Discriminator Loss: 0.4875473380088806	Generator Loss: 1.3500783443450928
+Epoch: 5  Discriminator Loss: 0.5070859789848328	Generator Loss: 1.6581382751464844
+Epoch: 6  Discriminator Loss: 0.4619484543800354	Generator Loss: 1.4935320615768433
+Epoch: 7  Discriminator Loss: 0.6347838640213013	Generator Loss: 1.2953410148620605
+Epoch: 8  Discriminator Loss: 0.5972844362258911	Generator Loss: 1.2522516250610352
+Epoch: 9  Discriminator Loss: 0.5666494369506836	Generator Loss: 1.2211151123046875
+Epoch: 10  Discriminator Loss: 0.5979328155517578	Generator Loss: 1.0634469985961914
